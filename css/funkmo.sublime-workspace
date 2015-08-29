@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"tra",
+				"translate_page"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"inf",
+				"infoContent"
+			],
+			[
+				"info",
+				"infoTitle"
+			],
+			[
+				"the",
+				"theme"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"ty",
+				"Type"
+			],
+			[
+				"infobox",
+				"infobox-header"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"li",
+				"live"
+			],
+			[
+				"jour",
+				"jour-line"
+			],
+			[
+				"dro",
+				"dropdownClosed"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"inlin",
+				"inline-table"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"get_c",
+				"get_class_methods"
+			],
+			[
+				"wpcf7_fo",
+				"wpcf7_form_controls_class"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"Da",
+				"Dashboard"
+			],
+			[
+				"In",
+				"Inventory"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"d",
+				"disabled	Attr"
+			],
+			[
+				"Insta",
+				"Instance"
+			],
+			[
+				"Data",
+				"Datastore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 2698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo/wp-content/themes/funkmostudio/index.php",
+			"settings":
+			{
+				"buffer_size": 2020,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			" import urllib2,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/odhieobieoho/Sites/funkmo/wp-content",
+		"/Users/odhieobieoho/Sites/funkmo/wp-content/themes",
+		"/Users/odhieobieoho/Sites/funkmo/wp-content/themes/funkmostudio"
+	],
+	"file_history":
+	[
+		"/Users/odhieobieoho/Sites/dijangkara.github.io/index.html",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/js/frontend-upload.js",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/post-story.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/functions.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/mu-plugins/journesia-translation-system.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/imagefull.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/image.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/footer.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/single-story.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/style.css",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/post-photo.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/edit-story.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/infobox.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-infobox.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/journesia.sublime-project",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/header.php",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/footer.php",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/header.php",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/functions.php",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/style.css",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/single-story.php",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/frontend-upload.js",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/edit-story.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-line.php",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/single.js",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-image.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/line.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-video.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-text.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-gallery.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-imagefull.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/block-templates/edit-map.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/journesia/edit-story.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/js/single.js",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/comments.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/template/archive-grid-related.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/iwando_pages/dashboard.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/themes/salient/template-portfolio.php",
+		"/Users/odhieobieoho/Sites/html/.htaccess",
+		"/Users/odhieobieoho/Sites/html/application/.htaccess",
+		"/Users/odhieobieoho/Sites/html/1.htaccess",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/css/style.css",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/css/component.css",
+		"/Users/odhieobieoho/Downloads/wedevign.txt",
+		"/private/var/folders/fy/tm7nyn012fd_j_2g4npqfbf80000gp/T/fz3temp-1/index.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/style.css",
+		"/Users/odhieobieoho/Documents/Source code/src/js/app.plugin.js",
+		"/Users/odhieobieoho/Documents/Source code/src/form-elements.html",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/js/slider.css",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/logo_brief.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/project_brief.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/index.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/functions.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/footer.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/themes/wedevignsub/header.php",
+		"/Users/odhieobieoho/Sites/wedevignsub/wp-content/plugins/contact-form-7/modules/text.php",
+		"/Users/odhieobieoho/Documents/Source code/src/js/app.js",
+		"/Users/odhieobieoho/Sites/wedevignsub/.htaccess",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/user-profile.php",
+		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/js/main.js",
+		"/Users/odhieobieoho/Sites/html/sparks/php-activerecord/0.0.3/vendor/php-activerecord/lib/Connection.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/page/includes/left_menu.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/page/css/app.css",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/iwando_pages/options-dashboard.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/dashboard.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/iwando_pages/mht-domain-search_page/search-result.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/iwando_pages/mht-domain-search_page/register-domain.php",
+		"/Users/odhieobieoho/Sites/pitoxsarchitect/wp-content/themes/pitoxsfifteen/style.css",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/advanced-reporting.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/audience-settings.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/create-ad-format.php",
+		"/Users/odhieobieoho/Documents/Source code/src/mail.html",
+		"/Users/odhieobieoho/Documents/Source code/src/list.html",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/geo-stats.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/dashboard-stats.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/page/js/charts/flot/demo.js",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/rtb-stats-v2.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/rtb-stats.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/business_apps/business-view-app.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/iwando_pages/iwando_page/single-app.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/rtb/targeting-and-inventory.php",
+		"/Users/odhieobieoho/Documents/Source code/src/jvectormap.html",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/page/js/app.js",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/datastore-settings.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/query.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/create-new-entity.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-datastore.php",
+		"/Users/odhieobieoho/Documents/Source code/src/chart.html",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-storage.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-operations.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-access-control-ssl.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-access-control-ipaddress.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-access-control-users.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-access-control.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-databases.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql-overview.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-sql-instance.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-sql.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-bigtable-overview.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-cluster.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-bigtable.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-vpn.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/vpn.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-dns-zone.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/cloud-dns.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/create-container-cluster.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/compute-engine-usage-export.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/operations.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/zones.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-certificate.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/certificates.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/create-global-health-check.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/global-health-check.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-backend-service.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/backend-services.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-target-proxy.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/target-proxies.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/add-global-forwarding-rule.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/advanced-view.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/edit-backend-service.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/http-load-balancing-details.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/create-new-global-forwarding-rule.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/http-load-balancing.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/health-check.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/target-pools.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/forwarding-rule.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/network-load-balancing.php",
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/create-health-check.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Apple",
+			"Google",
+			"STORY",
+			"Aperture",
+			"left",
+			"content",
+			"title",
+			"\n		  fullheight('.bg-img');\n		  fullheight('#post header');",
+			"alt",
+			"avatar",
+			"ID",
+			"argument",
+			"Story",
+			"equalheight",
+			"jquery",
+			"wpse_101072_flatten_hierarchies",
+			"condition",
+			"english",
+			"php",
+			">';\n",
+			"$current_pos",
+			"theme",
+			"dark",
+			"theme",
+			"language",
+			"$es",
+			"');\n",
+			"remove",
+			"places_id",
+			"<?",
+			"center",
+			"tooltip",
+			"});\n",
+			"header2",
+			"header1",
+			"light",
+			"dark",
+			"bahasa",
+			"english",
+			"<div class=\"detail\">\n						  	<p><span id=\"source\">Original Source :</span> <input type=\"text\" class=\"form-control\" name=\"original_source\" placeholder=\"Original Source\"></p>\n						  	<p><span id=\"place\">Place : </span><input type=\"text\" class=\"form-control places\" name=\"places\" data-toggle=\"modal\" data-target=\"#placeModal\" placeholder=\"Click to add place\"><input type=\"hidden\" class=\"places_id\" name=\"places_id\"></p>\n						  	<p><span id=\"category\">Category : </span><input type=\"text\" class=\"form-control categories\" name=\"categories\" data-toggle=\"modal\" data-target=\"#categoryModal\" placeholder=\"Click button to add category\"><input type=\"hidden\" class=\"categories_id\" name=\"categories_id\"></p>\n						</div>",
+			"language",
+			"theme",
+			"language",
+			"-56px",
+			"img",
+			"background-image",
+			"img",
+			"header3",
+			"theme",
+			"language",
+			"note",
+			"class",
+			"contenteditable",
+			"class",
+			"contenteditable",
+			"NOTES",
+			"</input>",
+			"h4",
+			"short",
+			"html",
+			"jour-line",
+			"attr",
+			"input",
+			"editable",
+			"text",
+			"id",
+			"#",
+			"line",
+			"full",
+			"line",
+			"auto",
+			"<div class=\"line-opt\"><img id=\"line-short\" src=\"'+bloginfo+'/images/jour-line.png\"><img id=\"line-full\" src=\"'+bloginfo+'/images/jour-line-full.png\"></div",
+			"hide",
+			"das",
+			"line",
+			"<div class=\"add-content innera\"> <a class=\"add\">+ Add Content</a> <ul class=\"content-option\"> <li id=\"text\"> <img src=\"'+bloginfo+'/images/text.png\"> <span>Text</span> </li> <li id=\"image\"> <img src=\"'+bloginfo+'/images/image.png\"> <span>Image</span> </li> <li id=\"imagefull\"> <img src=\"'+bloginfo+'/images/image-fullwidth.png\"> <span>Wide Image</span> </li> <li id=\"gallery\"> <img src=\"'+bloginfo+'/images/gallery.png\"> <span>Gallery</span> </li> <li id=\"video\"> <img src=\"'+bloginfo+'/images/video.png\"> <span>Video</span> </li> <li id=\"map\"><img src=\"'+bloginfo+'/images/location.png\"> <span>Map</span> </li> </ul> </div>",
+			"line",
+			");\n",
+			"vh",
+			"(window).height()",
+			"(window).hei",
+			"(window).her",
+			"before",
+			"egory",
+			"cat",
+			"('#place').parent().find",
+			"next('.places')",
+			"('#category').next",
+			"fast",
+			"login-box",
+			"\n			      		<img src=\"<?php echo get_template_directory_uri(); ?>/images/compass.png\" width=\"35\">\n			      		<ul class=\"dropdown-container hide\">\n			      			<li>\n			      				<span class=\"dropdown-label\">Language</span>\n			      				<div class=\"radio\">\n								  	<label>\n								    	<input type=\"radio\" name=\"language\" id=\"english\" value=\"english\">\n								    	English\n								  	</label>\n								</div>\n			      				<div class=\"radio\">\n								  	<label>\n								    	<input type=\"radio\" name=\"language\" id=\"bahasa\" value=\"bahasa\">\n								    	Bahasa\n								  	</label>\n								</div>\n			      			</li>\n			      			<li>\n			      				<span class=\"dropdown-label\">Theme</span>\n			      				<div class=\"radio\">\n								  	<label>\n								    	<input type=\"radio\" name=\"theme\" id=\"light\" value=\"light\">\n								    	Light\n								  	</label>\n								</div>\n			      				<div class=\"radio\">\n								  	<label>\n								    	<input type=\"radio\" name=\"theme\" id=\"dark\" value=\"dark\">\n								    	Dark\n								  	</label>\n								</div>\n			      			</li>\n			      			<li>\n			      				<span class=\"dropdown-label\">Font</span>\n			      				<div class=\"radio\">\n								  	<label>\n								    	<input type=\"radio\" name=\"font\" id=\"serif\" value=\"serif\">\n								    	Dark\n								  	</label>\n								</div>\n			      				<div class=\"radio\">\n								  	<label>\n								    	<input type=\"radio\" name=\"font\" id=\"sans-serif\" value=\"sans-serif\">\n								    	Sans serif\n								  	</label>\n								</div>\n			      			</li>\n			      		</ul>",
+			"span",
+			"serif",
+			"dark",
+			"light",
+			"Dark",
+			"dark",
+			"Bahasa",
+			"English",
+			"english",
+			" {",
+			"});\n",
+			"35",
+			"link",
+			"alt",
+			"one-fourths",
+			"<?",
+			"		\n",
+			"6",
+			".footer-top",
+			".footer-top:not(.still)",
+			"login",
+			"rgba(59,89,152",
+			"facebook",
+			"rgba(0,172,237",
+			"twitter",
+			"entry-title",
+			"paddless",
+			"^\\n",
+			"place",
+			"form-inline",
+			"-slider-value=\"0\"",
+			"Modern",
+			"Serious",
+			"Colorful",
+			"Masculine",
+			"css",
+			"slide"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/odhieobieoho/Sites/funkmo/wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								846,
+								846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/odhieobieoho/Sites/funkmo/wp-content/themes/funkmostudio/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "funkmo.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/journesia/alpha/wp-content/themes/journesia/js/dijangkara.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
