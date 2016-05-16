@@ -160,19 +160,75 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/odhieobieoho/Sites/funkmo/wp-config.php",
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/index.php",
 			"settings":
 			{
-				"buffer_size": 2698,
+				"buffer_size": 555,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 19124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/scss/partials/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/scss/style.css",
+			"settings":
+			{
+				"buffer_size": 31040,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/odhieobieoho/Sites/funkmo/wp-content/themes/funkmostudio/index.php",
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/header.php",
 			"settings":
 			{
-				"buffer_size": 2020,
+				"buffer_size": 885,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/footer.php",
+			"settings":
+			{
+				"buffer_size": 8082,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Documents/Source code/animated-headline/js/main.js",
+			"settings":
+			{
+				"buffer_size": 5532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Sites/funkmo-html/js/main.js",
+			"settings":
+			{
+				"buffer_size": 10299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/odhieobieoho/Documents/Source code/animated-headline/index.html",
+			"settings":
+			{
+				"buffer_size": 3305,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -219,12 +275,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/odhieobieoho/Sites/funkmo/wp-content",
-		"/Users/odhieobieoho/Sites/funkmo/wp-content/themes",
-		"/Users/odhieobieoho/Sites/funkmo/wp-content/themes/funkmostudio"
+		"/Users/odhieobieoho/Sites/funkmo-html",
+		"/Users/odhieobieoho/Sites/funkmo-html/scss",
+		"/Users/odhieobieoho/Sites/funkmo-html/scss/partials",
+		"/Users/odhieobieoho/Documents/Source code/animated-headline",
+		"/Users/odhieobieoho/Documents/Source code/animated-headline/css",
+		"/Users/odhieobieoho/Documents/Source code/animated-headline/js"
 	],
 	"file_history":
 	[
+		"/Users/odhieobieoho/Sites/funkmo/wp-config.php",
 		"/Users/odhieobieoho/Sites/dijangkara.github.io/index.html",
 		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/js/frontend-upload.js",
 		"/Users/odhieobieoho/Sites/journesia/alpha/wp-content/themes/journesia/post-story.php",
@@ -351,12 +411,11 @@
 		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/health-check.php",
 		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/target-pools.php",
 		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/forwarding-rule.php",
-		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/network-load-balancing.php",
-		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/create-health-check.php"
+		"/Users/odhieobieoho/Sites/iwando/wp-content/plugins/mega_dashboard/cloud_servers/network-load-balancing.php"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -370,6 +429,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"typeLettersDelay",
 			"Apple",
 			"Google",
 			"STORY",
@@ -496,8 +556,7 @@
 			"Serious",
 			"Colorful",
 			"Masculine",
-			"css",
-			"slide"
+			"css"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -516,24 +575,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/odhieobieoho/Sites/funkmo/wp-config.php",
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2698,
+						"buffer_size": 555,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								846,
-								846
+								377,
+								377
 							]
 						],
 						"settings":
@@ -541,19 +600,131 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 361.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18933,
+								19084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12968.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/Users/odhieobieoho/Sites/funkmo/wp-content/themes/funkmostudio/index.php",
-					"semi_transient": true,
+					"buffer": 2,
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/scss/partials/_variables.scss",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2020,
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/scss/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2224,
+								2224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 809.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8082,
 						"regions":
 						{
 						},
@@ -569,10 +740,94 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 114.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/odhieobieoho/Documents/Source code/animated-headline/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/odhieobieoho/Sites/funkmo-html/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5264,
+								5264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/odhieobieoho/Documents/Source code/animated-headline/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
 					"type": "text"
 				}
 			]
@@ -637,7 +892,7 @@
 		[
 			[
 				"",
-				"~/Sites/journesia/alpha/wp-content/themes/journesia/js/dijangkara.sublime-project"
+				"~/Sites/journesia/alpha/wp-content/themes/journesia/journesia.sublime-project"
 			]
 		],
 		"width": 380.0
